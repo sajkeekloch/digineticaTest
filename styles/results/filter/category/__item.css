@@ -1,0 +1,17 @@
+
+.category__item {
+    margin-bottom: 10px;
+}
+
+a{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #5375B7;
+}
+
+.item__number {
+    color: #8B8B8B;
+}

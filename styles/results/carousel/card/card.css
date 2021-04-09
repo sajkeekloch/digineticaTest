@@ -1,0 +1,16 @@
+@import './__title.css';
+@import './__img.css';
+@import './__number.css';
+
+.carousel__card {
+    min-width: 230px;
+    border-right: 1px solid #B9B9B9;
+    margin-top: 30px;
+    margin-right: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.carousel__card:hover{
+    cursor: pointer;
+}

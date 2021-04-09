@@ -1,0 +1,28 @@
+.search__button {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #000000;
+    background: #F1BD45;
+    border-radius: 0px 3px 3px 0px;
+    padding: 11px 51px;
+    border: 1px solid #F1BD45;
+
+}
+
+.search__button:hover {
+    cursor: pointer;
+}
+
+.search__button_close {
+    background: #fff;
+    padding: 11px 27px;
+    margin-left: 11px;
+
+    border: 1px solid #DEDEDE;
+    box-sizing: border-box;
+    border-radius: 3px;
+}

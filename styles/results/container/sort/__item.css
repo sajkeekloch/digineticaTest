@@ -1,0 +1,20 @@
+.sort__item {
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #5375B7;
+    margin-right: 5px;
+    margin-left: 10px;
+}
+
+.sort__item:hover{
+    cursor: pointer;
+}
+
+.sort__item_chosen {
+    color: #333333;
+    text-decoration: underline;
+    text-decoration-color: #F1BD45;
+}

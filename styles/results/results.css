@@ -1,0 +1,14 @@
+@import './__subtitle.css';
+@import './__title.css';
+@import './carousel/carousel.css';
+@import './filter/filter.css';
+
+
+.results {
+    margin: 30px 40px 0 40px;
+    width: calc(100% - 80px);
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

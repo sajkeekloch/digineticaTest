@@ -1,0 +1,12 @@
+.pagination__number_chosen {
+    opacity: 1;
+    color: #000000;
+}
+
+.pagination__number:hover {
+    cursor: pointer;
+}
+
+.pagination__number_chosen::after {
+    content: '...';
+}

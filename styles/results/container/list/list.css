@@ -1,0 +1,8 @@
+@import './card/card.css';
+
+.container__list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

@@ -1,0 +1,23 @@
+.correction__item {
+    width: 100px;
+    height: 30px;
+    background: #FFF3D8;
+    border-radius: 3px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 10px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #000000;
+    border-radius: 3px;
+}
+
+.correction__item:hover {
+    cursor: pointer;
+}

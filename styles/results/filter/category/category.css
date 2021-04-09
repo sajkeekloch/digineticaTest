@@ -1,0 +1,7 @@
+@import './__title.css';
+@import './__items.css';
+@import './__item.css';
+
+.filter__category {
+    margin-bottom: 46px;
+}

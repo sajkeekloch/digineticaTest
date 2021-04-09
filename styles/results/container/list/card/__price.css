@@ -1,0 +1,22 @@
+.card__price {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 16px;
+    margin-bottom: 15px;
+}
+
+.card__price_new {
+    color: #000000;
+}
+
+.card__price_old {
+    margin-left: 16px;
+    font-weight: normal;
+    font-size: 14px;
+    text-decoration-line: line-through;
+    color: #A9A9A9;
+}

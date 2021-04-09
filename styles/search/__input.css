@@ -1,0 +1,29 @@
+.search__input {
+    width: 100%;
+    background: #FFFFFF;
+    border: 1px solid #C7C7C7;
+    box-sizing: border-box;
+    border-radius: 5px 0px 0px 5px;
+    height: 40px;
+    background-image: url('../images/search1.svg');
+    background-repeat: no-repeat;
+    background-position: 16px 11px;
+    text-indent: 50px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    color: #000000;
+}
+
+.search__input::-webkit-search-cancel-button {
+    position: relative;
+    -webkit-appearance: none;
+    height: 1em;
+    width: 1em;
+    margin-right: 5px;
+    background: url('../images/searchCross.svg') no-repeat ;
+    background-size: contain;
+    opacity: 1;
+}

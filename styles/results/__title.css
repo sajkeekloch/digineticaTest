@@ -1,0 +1,10 @@
+.results__title {
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 32px;
+    align-self: baseline;
+    width: calc(30% - 40px);
+    color: #000000;
+}

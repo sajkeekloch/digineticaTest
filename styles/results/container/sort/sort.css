@@ -1,0 +1,9 @@
+@import './__item.css';
+
+.container__sort {
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 30px;
+    max-height: 20px;
+    min-width: 80%;
+}

@@ -1,0 +1,7 @@
+@import './category/category.css';
+@import './price/price.css';
+@import './brand/brand.css';
+
+.results__filter {
+    width: calc(30% - 40px);
+}

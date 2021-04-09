@@ -1,0 +1,33 @@
+@import './vendor/normalize.css';
+@import './vendor/font/font.css';
+@import './header/header.css';
+@import './search/search.css';
+@import './results/results.css';
+@import './results/container/container.css';
+
+@import './results/filter/price/slider/nouislider.css';
+
+body {
+    overflow-x: hidden;
+}
+
+p {
+    margin-block-start: 0;
+    margin-block-end: 0; 
+}
+
+
+ul {
+    list-style: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0 0;
+}

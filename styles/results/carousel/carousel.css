@@ -1,0 +1,8 @@
+@import './card/card.css';
+
+.results__carousel {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 40px;
+    overflow-x: scroll;
+}

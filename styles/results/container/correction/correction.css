@@ -1,0 +1,7 @@
+@import './__item.css';
+
+.container__correction {
+    min-width: 100%;
+    display: flex;
+    margin-bottom: 20px;
+}

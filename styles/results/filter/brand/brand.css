@@ -1,0 +1,12 @@
+@import './__title.css';
+@import './__item.css';
+@import './__clear.css';
+
+
+.filter__brand {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+

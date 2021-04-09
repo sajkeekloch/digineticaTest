@@ -1,0 +1,15 @@
+@import './__number.css';
+
+.container__pagination {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 110px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    color: #6d6d6d;
+    padding-bottom: 55px;
+}

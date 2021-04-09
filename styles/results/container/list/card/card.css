@@ -1,0 +1,13 @@
+@import './__button.css';
+@import './__image.css';
+@import './__price.css';
+@import './__title.css';
+
+.list__card {
+    width: 260px;
+    margin-bottom: 40px;
+}
+
+.list__card:hover {
+    cursor: pointer;
+}

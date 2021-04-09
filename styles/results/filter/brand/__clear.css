@@ -1,0 +1,17 @@
+.brand__clear {
+    text-align: right;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 11px;
+    text-align: right;
+    text-decoration-line: underline;
+    color: #333333;
+    opacity: 0.5;
+    width: 30%;
+}
+
+.brand__clear:hover {
+    cursor: pointer;
+}

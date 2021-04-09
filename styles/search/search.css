@@ -1,0 +1,12 @@
+@import './__button.css';
+@import './__form.css';
+@import './__input.css';
+
+.search{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-left: auto;
+    margin-right: auto;
+    width: calc(100% - 60px);
+}
