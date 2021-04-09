@@ -1,6 +1,6 @@
-@import './__title.css';
-@import './__form.css';
-@import './slider/__slider.css';
+@import './title.css';
+@import './form.css';
+@import './slider/slider.css';
 
 .filter__price {
     margin-bottom: 30px;

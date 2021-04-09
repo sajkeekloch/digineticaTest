@@ -1,6 +1,6 @@
-@import './__title.css';
-@import './__item.css';
-@import './__clear.css';
+@import './title.css';
+@import './item.css';
+@import './clear.css';
 
 
 .filter__brand {

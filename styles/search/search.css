@@ -1,6 +1,6 @@
-@import './__button.css';
-@import './__form.css';
-@import './__input.css';
+@import './button.css';
+@import './form.css';
+@import './input.css';
 
 .search{
     display: flex;

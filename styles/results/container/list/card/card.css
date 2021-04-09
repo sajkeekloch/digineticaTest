@@ -1,7 +1,7 @@
-@import './__button.css';
-@import './__image.css';
-@import './__price.css';
-@import './__title.css';
+@import './button.css';
+@import './image.css';
+@import './price.css';
+@import './title.css';
 
 .list__card {
     width: 260px;

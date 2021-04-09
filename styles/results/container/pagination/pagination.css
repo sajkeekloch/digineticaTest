@@ -1,4 +1,4 @@
-@import './__number.css';
+@import './number.css';
 
 .container__pagination {
     display: flex;

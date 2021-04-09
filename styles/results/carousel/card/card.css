@@ -1,6 +1,6 @@
-@import './__title.css';
-@import './__img.css';
-@import './__number.css';
+@import './title.css';
+@import './img.css';
+@import './number.css';
 
 .carousel__card {
     min-width: 230px;

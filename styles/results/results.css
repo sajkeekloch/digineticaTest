@@ -1,5 +1,5 @@
-@import './__subtitle.css';
-@import './__title.css';
+@import './subtitle.css';
+@import './title.css';
 @import './carousel/carousel.css';
 @import './filter/filter.css';
 
